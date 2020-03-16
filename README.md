@@ -4,5 +4,5 @@ MART 5590 Blender Projects - First Week
 * Coffin
 * Stencil
 * Tombstone
-* Textured Rock
+* Textured Rock<br><br>
 Scott Bing
